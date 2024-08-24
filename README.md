@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/inleonardo-oliveira-000a14273/)
 
 ![Leonardo Goes GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardogooes&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogooes)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
 
